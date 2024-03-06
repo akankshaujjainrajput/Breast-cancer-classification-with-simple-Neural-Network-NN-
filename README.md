@@ -1,4 +1,2 @@
 # Breast-cancer-classification-with-simple-Neural-Network-NN-
-Developing a neural network to classify breast tumors (malignant or benign) from digitized images. Early detection is vital for better outcomes in breast cancer, making this model crucial. Leveraging machine learning, especially neural networks, enhances early diagnosis potential.
-hjliutyjh,fnhbm,n/m.m/KMKOLuujghcdzsdsaredtfghjhbkjlkm.,;l;.;'":';
-/'
+This project aims to develop a simple neural network model for classifying breast cancer tumors as either malignant or benign based on features extracted from digitized images of breast tissue. Breast cancer is one of the most prevalent cancers among women globally, and early detection plays a crucial role in improving patient outcomes. By leveraging machine learning techniques, particularly neural networks, we can create a predictive model that aids in the early diagnosis of breast cancer
